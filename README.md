@@ -11,7 +11,7 @@ The CountVectorizer provides a simple way to both tokenize a collection of text 
 3. Punkt Package-
 Punkt Sentence Tokenizer. This tokenizer divides a text into a list of sentences, by using an unsupervised algorithm to build a model for abbreviation words, collocations, and words that start sentences. It must be trained on a large collection of plaintext in the target language before it can be used.
 
-Output:
+Sample Output:
 
 
 Doc Bot: I am Doctor Bot or Doc Bot for short. I will answer your queries about Chronic Kidney Disease. If you want to exit, type bye.
