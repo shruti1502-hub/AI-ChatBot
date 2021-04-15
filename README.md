@@ -12,10 +12,15 @@ The CountVectorizer provides a simple way to both tokenize a collection of text 
 Punkt Sentence Tokenizer. This tokenizer divides a text into a list of sentences, by using an unsupervised algorithm to build a model for abbreviation words, collocations, and words that start sentences. It must be trained on a large collection of plaintext in the target language before it can be used.
 
 Output:
+
+
 Doc Bot: I am Doctor Bot or Doc Bot for short. I will answer your queries about Chronic Kidney Disease. If you want to exit, type bye.
 Hi
-Doc Bot: hola
-What is Chronic Kidney disease?
-Doc Bot:  Chronic kidney disease may not become apparent until your kidney function is significantly impaired. Overview
 
+Doc Bot: hola
+
+What is Chronic Kidney disease?
+
+Doc Bot:  Chronic kidney disease may not become apparent until your kidney function is significantly impaired.
+Overview
 Chronic kidney disease, also called chronic kidney failure, describes the gradual loss of kidney function. Chronic kidney disease can progress to end-stage kidney failure, which is fatal without artificial filtering (dialysis) or a kidney transplant.
